@@ -17,14 +17,14 @@ hideDate: true
 </center>
 
 <center>
-	we are a cool group
+	we are a cool group (to be filled by Brumble.)
 </center>
 
 ---
 
 ### When do we play?
 
-Currently we play three times a week, and sometimes more! Here are the fixed times:
+Currently, we play three times a week, and sometimes more! Current sessions:
 
 - Monday **6:15pm**.
 
@@ -38,11 +38,11 @@ Currently we play three times a week, and sometimes more! Here are the fixed tim
 
 ### Where do we play?
 
-We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) located on PITT campus.
+We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) located on the University of Pittsburgh campus.
 
 ---
 
-### Can I join during the above times without notice?
+### Can I join during the above times without any notice?
 
 **Absoloutely! We welcome everybody** with any skill level.
 
@@ -50,7 +50,7 @@ We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzge
 
 ### Are there any rules or code of conduct?
 
-We ask you to wear **googles/glasses**, and to be **respectful** to the rest of the players.
+We ask you to wear **googles/glasses**, and to be **respectful** to other players.
 
 ---
 
