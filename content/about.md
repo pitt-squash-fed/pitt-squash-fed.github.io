@@ -26,7 +26,7 @@ In case you want to know more, check the University Times article titled [Squash
 
 ### When do we play?
 
-Currently, we play three times a week, and sometimes more! Current sessions:
+Currently, we play three times a week, and sometimes more! Current sessions are:
 
 - Monday **6:15pm**.
 
@@ -34,7 +34,7 @@ Currently, we play three times a week, and sometimes more! Current sessions:
 
 - Saturday **3:00pm**.
 
-- And By agreement when acheiving **critical mass**.
+- By agreement when acheiving **critical mass**.
 
 ---
 
