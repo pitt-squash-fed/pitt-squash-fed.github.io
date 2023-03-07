@@ -56,6 +56,10 @@ We ask you to wear **googles/glasses**, and to be **respectful** to other player
 
 ---
 
-# In case of emergency, always call 911 and contact the guard at the entrance.
+<center>
+	<h1>
+		In case of emergency, always call 911 and contact the guard at the entrance.
+	</h1>
+</center>
 
 ---
