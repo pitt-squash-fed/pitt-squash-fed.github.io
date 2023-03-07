@@ -1,4 +1,4 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://pitt-squash-fed.github.io # todo: change site url.
 title: Pittsburgh Squash Federation (since 1996) # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
@@ -8,9 +8,8 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme ?? for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author:
-    - name: Rakan Alseghayer
-    - url: 'https://ralseghayer.github.io' # todo: set your full name.
+  author: Rakan Alseghayer
+  - url: 'https://ralseghayer.github.io'
   dontShowSource: false # please, do not do this :)
 
   socials:
