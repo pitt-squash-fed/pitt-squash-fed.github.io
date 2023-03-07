@@ -18,7 +18,7 @@ hideDate: true
 
 <center>
 
-We are a group of squash (the sport) players who are located in Pittsburgh, PA. We meet regularly to play squash on campus at the University of Pittsburgh. The group was founded in 1996 by the cheif of the group, [**David Brumble**](https://www.english.pitt.edu/h-david-brumble).
+We are a group of squash (the sport) players who are located in Pittsburgh, PA. We meet regularly to play squash on campus at the University of Pittsburgh. The group was founded in 1996 by the chief of the group, [**David Brumble**](https://www.english.pitt.edu/h-david-brumble).
 
 [**James Conway**](https://www.structbio.pitt.edu/index.php/12-faculty/18-james-conway) of the federation has said to the [**University Times**](https://www.utimes.pitt.edu/): “We’re (a) very international, enthusiastic and diverse group of around 40 who meet three to four times a week to engage in several hours of healthy squash activity while also fostering social and academic exchange within a wide cross-section of the Pitt community.” This was part of the article [**"Squash ‘federation’ brings together diverse group from across Pitt"**](https://www.utimes.pitt.edu/news/squash-federation-brings)
 
@@ -60,7 +60,7 @@ We ask you to wear **googles/glasses**, and to be **respectful** to other player
 
 ### Do you have any questions?
 
-Send an email to David Brumble, the cheif of our group, at: brumble@pitt.edu
+Reach out to David Brumble, the chief of the group, at: **brumble@pitt.edu**
 
 ---
 
