@@ -26,7 +26,7 @@ We are a group of squash (the sport) players who are located in Pittsburgh, PA. 
 
 ---
 
-### When do we play?
+### When do you play?
 
 Currently, we play three times a week, and sometimes more! Current sessions are:
 
@@ -40,7 +40,7 @@ Currently, we play three times a week, and sometimes more! Current sessions are:
 
 ---
 
-### Where do we play?
+### Where do you play?
 
 We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) building that is located on the University of Pittsburgh campus.
 
@@ -58,7 +58,7 @@ We ask you to wear **googles/glasses**, and to be **respectful** to other player
 
 ---
 
-### Do you have any questions?
+### What if I have questions?
 
 Reach out to David Brumble, the chief of the group, at: brumble@pitt.edu
 
