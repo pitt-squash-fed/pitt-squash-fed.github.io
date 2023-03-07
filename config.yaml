@@ -8,8 +8,9 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme ?? for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Rakan Alseghayer
-  - url: 'https://ralseghayer.github.io'
+  author: 
+    - name: Rakan Alseghayer
+    url: 'https://ralseghayer.github.io'
   dontShowSource: false # please, do not do this :)
 
   socials:
