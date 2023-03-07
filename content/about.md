@@ -18,7 +18,7 @@ hideDate: true
 
 <center>
 
-We are a group of squash (the sport) players who are located in Pittsburgh, PA. We meet regularly to play squash on campus at the University of Pittsburgh. The group was founded in 1996 by the chief of the group, [**David Brumble**](https://www.english.pitt.edu/h-david-brumble).
+We are a group of University of Pittsburgh squash players. The group has been playing regularly since 1996, and managed by "the chief" of the group, [**David Brumble**](https://www.english.pitt.edu/h-david-brumble).
 
 [**James Conway**](https://www.structbio.pitt.edu/index.php/12-faculty/18-james-conway) of the federation has said to the [**University Times**](https://www.utimes.pitt.edu/): “We’re (a) very international, enthusiastic and diverse group of around 40 who meet three to four times a week to engage in several hours of healthy squash activity while also fostering social and academic exchange within a wide cross-section of the Pitt community.” This was part of the article [**"Squash ‘federation’ brings together diverse group from across Pitt"**](https://www.utimes.pitt.edu/news/squash-federation-brings)
 
@@ -48,26 +48,18 @@ We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzge
 
 ### Can I join during the above times without any notice?
 
-**Absoloutely! We welcome everybody** with any skill level.
+**Absolutely! We welcome anybody with a Pitt ID** -- any skill level.
 
 ---
 
 ### Are there any rules/code of conduct?
 
-We ask you to wear **googles/glasses**, and to be **respectful** to other players.
+We ask you to wear **goggles/glasses**, and to be **respectful** to other players.
 
 ---
 
 ### What if I have questions?
 
 Reach out to David Brumble, the chief of the group, at: brumble@pitt.edu
-
----
-
-<center>
-	<h1>
-		In case of emergency, call 911 and contact the guard at the entrance.
-	</h1>
-</center>
 
 ---
