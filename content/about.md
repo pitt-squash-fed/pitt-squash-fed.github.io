@@ -52,7 +52,7 @@ We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzge
 
 ---
 
-### Are there any rules or code of conduct?
+### Are there any rules/code of conduct?
 
 We ask you to wear **googles/glasses**, and to be **respectful** to other players.
 
