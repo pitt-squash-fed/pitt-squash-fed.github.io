@@ -1,0 +1,49 @@
+baseURL: https://eternity.bora.sh # todo: change site url.
+title: Pittsburgh Squash Federation (since 1996) # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  subtitle: Eternity is a minimalist Hugo theme ?? for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Rakan Alseghayer # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:brumble@pitt.edu'
+      landing: true
+    - icon: 'fa fa-twitter'
+      url: 'https://FEDERATION TWITTER'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://FEDERATION INSTA'
+  homepage: "/about" # homepage link, mostly same with menu.main[0]
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: About Us
+      url: /about/
+      weight: 1
+
+
