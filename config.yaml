@@ -35,11 +35,6 @@ markup:
     renderer:
       unsafe: true
 
-
-
-permalinks:
-  author: "https://ralseghayer.github.io"
-
 menu:
   main:
     - name: About Us
