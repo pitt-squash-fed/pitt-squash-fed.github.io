@@ -60,7 +60,7 @@ We ask you to wear **googles/glasses**, and to be **respectful** to other player
 
 ### Do you have any questions?
 
-Reach out to David Brumble, the chief of the group, at: **brumble@pitt.edu**
+Reach out to David Brumble, the chief of the group, at: brumble@pitt.edu
 
 ---
 

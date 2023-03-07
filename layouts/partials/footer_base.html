@@ -3,9 +3,8 @@
         {{ with .Site.Params.Copyright }}
         <br>
         {{ end }}
-        {{ with .Site.Params.Author }}
-            © {{ dateFormat "2006" now }}, {{ . }}.
-        {{ end }}
+        <a href="https://ralseghayer.github.io">Rakan Alseghayer</a>
+            © {{ dateFormat "2006" now }}.
     </p>
     {{ if not .Site.Params.DontShowSource}}
 <!--        <p>
