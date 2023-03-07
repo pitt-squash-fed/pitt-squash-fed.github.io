@@ -60,7 +60,7 @@ We ask you to wear **googles/glasses**, and to be **respectful** to other player
 
 ### Do you have any questions?
 
-Send an email to the cheif of our group, David Brumble at: brumble@pitt.edu
+Send an email to David Brumble, the cheif of our group, at: brumble@pitt.edu
 
 ---
 
