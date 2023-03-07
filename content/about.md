@@ -17,9 +17,13 @@ hideDate: true
 </center>
 
 <center>
-“We’re (a) very international, enthusiastic and diverse group of around 40 who meet three to four times a week to engage in several hours of healthy squash activity while also fostering social and academic exchange within a wide cross-section of the Pitt community.” ~ James Conway
+We are a group of squash players who are located in Pittsburgh, PA. We meet regularly to play squash at the University of Pittsburgh campus. The group was founded in 1996 by the cheif of the group [**David Brumble**](https://www.english.pitt.edu/h-david-brumble).
 
-In case you want to know more, check the University Times article titled [**Squash ‘federation’ brings together diverse group from across Pitt**](https://www.utimes.pitt.edu/news/squash-federation-brings)
+[**James Conway**](https://www.structbio.pitt.edu/index.php/12-faculty/18-james-conway), a member of the federation has said to the [**University Times**](https://www.utimes.pitt.edu/):
+
+“We’re (a) very international, enthusiastic and diverse group of around 40 who meet three to four times a week to engage in several hours of healthy squash activity while also fostering social and academic exchange within a wide cross-section of the Pitt community.”
+
+To know more, check the University Times article titled [Squash ‘federation’ brings together diverse group from across Pitt](https://www.utimes.pitt.edu/news/squash-federation-brings)
 </center>
 
 ---
@@ -40,7 +44,7 @@ Currently, we play three times a week, and sometimes more! Current sessions are:
 
 ### Where do we play?
 
-We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) located on the University of Pittsburgh campus.
+We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) building that is located on the University of Pittsburgh campus.
 
 ---
 
