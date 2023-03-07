@@ -40,7 +40,7 @@ Currently, we play three times a week, and sometimes more! Current sessions are:
 
 - Saturday **3:00pm**.
 
-- By agreement when acheiving **critical mass**.
+- By agreement via email.
 
 ---
 
