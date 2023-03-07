@@ -19,7 +19,7 @@ hideDate: true
 <center>
 “We’re (a) very international, enthusiastic and diverse group of around 40 who meet three to four times a week to engage in several hours of healthy squash activity while also fostering social and academic exchange within a wide cross-section of the Pitt community.” ~ James Conway
 
-In case you want to know more, check the University Times article titled [Squash ‘federation’ brings together diverse group from across Pitt](https://www.utimes.pitt.edu/news/squash-federation-brings)
+In case you want to know more, check the University Times article titled [**Squash ‘federation’ brings together diverse group from across Pitt**](https://www.utimes.pitt.edu/news/squash-federation-brings)
 </center>
 
 ---
