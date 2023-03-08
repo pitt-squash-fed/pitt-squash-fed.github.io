@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Eternity is a minimalist Hugo theme ?? for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Rakan Alseghayer
   dontShowSource: false # please, do not do this :)
@@ -16,11 +16,11 @@ params:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:brumble@pitt.edu'
       landing: true
-    - icon: 'fa fa-twitter'
-      url: 'https://FEDERATION TWITTER'
-      landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://FEDERATION INSTA'
+    # - icon: 'fa fa-twitter'
+    #   url: 'https://FEDERATION TWITTER'
+    #   landing: true
+    # - icon: 'fab fa-instagram fa-lg'
+    #   url: 'https://FEDERATION INSTA'
   homepage: "/about" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -38,7 +38,9 @@ markup:
 menu:
   main:
     - name: About Us
-      url: /about/
+      url: /about
       weight: 1
-
+    - name: Photo Gallery
+      url: /pics
+      weight: 2
 
