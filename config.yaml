@@ -35,6 +35,9 @@ markup:
     renderer:
       unsafe: true
 
+permalinks:
+  work: ":filename/"
+
 menu:
   main:
     - name: About Us
