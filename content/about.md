@@ -26,7 +26,7 @@ We are a group of University of Pittsburgh squash players. The group has been pl
 
 ---
 
-### When do you play?
+### When do we play?
 
 Currently, we play three times a week, and sometimes more! Current sessions are:
 
@@ -40,7 +40,7 @@ Currently, we play three times a week, and sometimes more! Current sessions are:
 
 ---
 
-### Where do you play?
+### Where do we play?
 
 We play at the [**Fitzgerald Field House**](https://en.wikipedia.org/wiki/Fitzgerald_Field_House) building that is located on the University of Pittsburgh campus.
 
